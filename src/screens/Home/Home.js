@@ -494,7 +494,7 @@ class Home extends React.Component {
 
       if (this.props.isLoadingBeacons) {
         refreshButton = spinner ? (<Button transparent onPress={() => this.props.stopLoadBeacons(this.state.region)}>
-          <ActivityIndicator size="large" color="#fff" />
+          <ActivityIndicator size="large" color="#ffffff" />
         </Button>) : (<Button transparent onPress={() => this.searchBeacons()}>
           <Icon style={styles.burger} name='redo' />
         </Button>);
