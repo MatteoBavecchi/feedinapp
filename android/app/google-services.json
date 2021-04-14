@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709281914321",
+    "firebase_url": "https://civil-willow-211119.firebaseio.com",
+    "project_id": "civil-willow-211119",
+    "storage_bucket": "civil-willow-211119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709281914321:android:9326cd2e4415359f9ad4f0",
+        "android_client_info": {
+          "package_name": "com.matteobavecchi.feedinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709281914321-k3q4273lho5ono5te5il2lambhf7ko75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMBrO8kG81MKXIkoik0dXSFs3pXE792w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709281914321-k3q4273lho5ono5te5il2lambhf7ko75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709281914321-klnssvi3jo9mu3u69mklbcg0ggb0b5t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.matteobavecchi.feedinapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
